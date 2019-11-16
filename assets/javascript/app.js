@@ -11,11 +11,7 @@ var firebaseConfig = {
   };
  // Initialize Firebase
  firebase.initializeApp(firebaseConfig);
-<<<<<<< HEAD
  
-=======
- firebase.analytics();
->>>>>>> d104e8b68a4558ddacafb499d7a9da2370731df9
 
  //variable to reference the database//
  var database = firebase.database();
